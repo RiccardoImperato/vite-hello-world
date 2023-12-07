@@ -1,11 +1,13 @@
 <script>
-export default {};
+export default {
+    name: 'jumbotron'
+};
 </script>
 
 <template>
     <div>
         <img src="../assets/vue.svg">
-        <img src="../assets/vite.svg">
+        <img src="/vite.svg">
     </div>
 </template>
 
